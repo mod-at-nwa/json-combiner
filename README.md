@@ -2,8 +2,6 @@
 
 A sleek, browser-based tool for combining and managing JSON files with an intuitive drag-and-drop interface. Built with Next.js, React, and Tailwind CSS.
 
-![JSON Combiner Interface](placeholder-for-screenshot.png)
-
 ## Features
 
 - Drag-and-drop interface for JSON files
@@ -18,7 +16,7 @@ A sleek, browser-based tool for combining and managing JSON files with an intuit
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/mod-at-nwa/json-combiner](https://github.com/mod-at-nwa/json-combiner) json-combiner
 cd json-combiner
 ```
 
@@ -56,7 +54,7 @@ This project uses modern React patterns including:
 - React hooks for state management
 - Client-side components with Next.js 13
 - Tailwind CSS for styling
-- shadcn/ui for UI components
+- shad/ui for UI components
 
 ## Credits
 
