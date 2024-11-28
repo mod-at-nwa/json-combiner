@@ -2,6 +2,8 @@
 
 A sleek, browser-based tool for combining and managing JSON files with an intuitive drag-and-drop interface. Built with Next.js, React, and Tailwind CSS.
 
+![json-combiner running in a browser](images/json-combiner-screenshot.png)
+
 ## Features
 
 - Drag-and-drop interface for JSON files
